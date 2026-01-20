@@ -39,4 +39,9 @@ public class ContactTemplate {
     public String showDetails(){
         return firstname + surname + "\n" + email + "\n" + phone + "\n" + address + "\n";
     }
+    
+    //get
+    public String getPhone(){
+        return phone;
+    }
 }

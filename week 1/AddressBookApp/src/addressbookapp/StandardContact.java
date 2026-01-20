@@ -2,7 +2,7 @@ package addressbookapp;
 
 /**
  *
- * @author College
+ * @author Nikolas
  */
 public class StandardContact extends ContactTemplate{
     
